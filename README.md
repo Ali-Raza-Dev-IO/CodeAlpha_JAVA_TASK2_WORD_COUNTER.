@@ -56,7 +56,7 @@ The Word Count Java Swing Application is a simple desktop utility built using Ja
 ![Word Counter Application Screenshot](screenshot-1.PNG)
 
 ## Screenshot
-[![Watch the demo video](Word Count App DEMO.mp4)]
+[![Watch the demo video](DEMO.mp4)]
 
 
  
